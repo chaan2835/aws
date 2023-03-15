@@ -3,3 +3,4 @@ sudo apt-get update
 sudo apt-get install mysql-client
 
 mysql -h [endpoint-url] -u [username] -p[password]
+mysql -h testingdbsever.cpmeq9xtvylg.us-east-1.rds.amazonaws.com -u chandra -pchandra2835
